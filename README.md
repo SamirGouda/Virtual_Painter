@@ -22,11 +22,8 @@
   <h3 align="center">Virtual Painter</h3>
 
   <p align="left">
-    Use your webcam to virtually paint 
-    <br />
-    <a href="https://github.com/SamirGouda/Virtual_Painter"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    Use your webcam to virtually paint using python and OpenCV
+    
   </p>
 </p>
 
